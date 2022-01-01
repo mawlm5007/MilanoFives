@@ -1,6 +1,6 @@
 # Spotify API
 https://spotipy.readthedocs.io/en/2.19.0/
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://mail.google.com/mail/u/0?ui=2&ik=d069bbcb7a&attid=0.1&permmsgid=msg-a:r2764535368489814016&th=17e172b709bbf578&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8zdTMqx8VqYMHiI2xyXHfTEF9CvmV4fzkszLofY2hHFNlzJq6zVhs2WrEPY_nbYK_qWA3GhhUgFwsdJ69QYFqyK1NgQh4XKoKIB0Vbu2R1v3duG8d4KndatFc&disp=emb&realattid=17e172b6a0a414148251)
 
 # Face Recognition
 
