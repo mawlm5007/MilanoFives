@@ -1,3 +1,7 @@
+# Spotify API
+https://spotipy.readthedocs.io/en/2.19.0/
+
+
 # Face Recognition
 
 Recognize and manipulate faces from Python or from the command line with
