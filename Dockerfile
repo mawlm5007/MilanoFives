@@ -49,3 +49,4 @@ RUN cd /root/face_recognition && \
 
 CMD cd /root/face_recognition/examples && \
     python3 recognize_faces_in_pictures.py
+

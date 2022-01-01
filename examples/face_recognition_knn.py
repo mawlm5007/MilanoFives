@@ -151,3 +151,4 @@ if __name__ == "__main__":
         print(preds)
         draw_preds(join("knn_examples/test", img_path), preds)
 
+

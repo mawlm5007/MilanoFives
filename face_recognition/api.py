@@ -209,3 +209,4 @@ def compare_faces(known_face_encodings, face_encoding_to_check, tolerance=0.6):
     :return: A list of True/False values indicating which known_face_encodings match the face encoding to check
     """
     return list(face_distance(known_face_encodings, face_encoding_to_check) <= tolerance)
+

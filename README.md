@@ -362,3 +362,4 @@ Solution: The version of `scipy` you have installed is too old. You need version
 * Thanks to [Cookiecutter](https://github.com/audreyr/cookiecutter) and the
   [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) project template
   for making Python project packaging way more tolerable.
+

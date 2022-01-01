@@ -39,3 +39,4 @@ But once you have the encodings for faces, you can compare them like this::
     results = face_recognition.compare_faces(known_face_encodings, a_single_unknown_face_encoding)
 
 It's that simple! Check out the examples for more details.
+

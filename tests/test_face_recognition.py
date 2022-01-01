@@ -267,3 +267,4 @@ class Test_face_recognition(unittest.TestCase):
 
         self.assertEqual(result.exit_code, 0)
         self.assertTrue(target_string in result.output)
+

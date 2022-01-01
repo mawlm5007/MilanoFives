@@ -53,3 +53,4 @@ while video_capture.isOpened():
 
         # Clear the frames array to start the next batch
         frames = []
+

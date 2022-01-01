@@ -49,3 +49,4 @@ Once you have a copy of the source, you can install it with:
 
 .. _Github repo: https://github.com/ageitgey/face_recognition
 .. _tarball: https://github.com/ageitgey/face_recognition/tarball/master
+

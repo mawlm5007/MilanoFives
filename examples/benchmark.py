@@ -75,3 +75,4 @@ for image in TEST_IMAGES:
     print(" - Encode face (inc. landmarks): {:.4f}s ({:.2f} fps)".format(*run_test(setup_encode_face.format(image), test_encode_face)))
     print(" - End-to-end: {:.4f}s ({:.2f} fps)".format(*run_test(setup_end_to_end.format(image), test_end_to_end)))
     print()
+

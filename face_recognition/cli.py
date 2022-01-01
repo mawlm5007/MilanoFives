@@ -114,3 +114,4 @@ def main(known_people_folder, image_to_check, cpus, tolerance, show_distance):
 
 if __name__ == "__main__":
     main()
+
