@@ -1,5 +1,6 @@
 # Demo
 https://drive.google.com/file/d/1SS7LLdtcJHKBKgzeC44N0MnZ_7-0vbkl/view?usp=sharing
+(Skip to 1:16 for product)
 
 # Spotify API
 https://spotipy.readthedocs.io/en/2.19.0/
